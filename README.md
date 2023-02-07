@@ -1,2 +1,2 @@
-# projectos
-projectos.py
+
+OLÁ BEM VINDO AO MEU REPOSITORIO DE ESTUDOS EM PYTHON
